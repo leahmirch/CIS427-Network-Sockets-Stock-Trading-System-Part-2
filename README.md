@@ -25,6 +25,8 @@ make clean
 make
 make runserver
 ```
+Image of runserver setup in vs code terminal:
+<img width="666" alt="Screenshot 2024-03-12 at 12 20 06 PM" src="https://github.com/leahmirch/PA2LeahMirch/assets/146135148/83ff35d1-be83-4253-9f9d-012e4182070e">
 
 #### Running the Client on the UMD Server
 ```bash
@@ -37,10 +39,14 @@ ssh lmirch@login.umd.umich.edu
 cd /home/l/lmirch/Private/pa2LeahMirch/
 
 # Run the client (specify the mode: local, direct IP, or login portal)
-make runclient  # for local testing
+make runclientl  # for local testing
 make runclientu # for direct UMD IP
 make runclientum # for login.umd portal
 ```
+Images of different runclient setups in vs code terminal:
+<img width="666" alt="Screenshot 2024-03-12 at 12 20 19 PM" src="https://github.com/leahmirch/PA2LeahMirch/assets/146135148/0e3c3771-15a0-468e-8084-a24e9249d02b">
+<img width="666" alt="Screenshot 2024-03-12 at 12 22 13 PM" src="https://github.com/leahmirch/PA2LeahMirch/assets/146135148/a065f8c0-ec04-471f-b037-10c7ea9433ab">
+<img width="666" alt="Screenshot 2024-03-12 at 12 20 27 PM" src="https://github.com/leahmirch/PA2LeahMirch/assets/146135148/be4e705b-a245-4527-bdc1-c12c4ae00141">
 
 ### Each Student's Role
 - Leah Mirch: Sole contributor to this project, responsible for designing, implementing, and testing all aspects of the Stock Trading System. This includes the server and client components, database management, and ensuring concurrency and network communication.
