@@ -87,4 +87,4 @@ These commands constitute the core functionality of the Stock Trading System, of
 ### Additional Information
 This project emphasizes the application of networking and concurrency concepts in a practical, real-world scenario. The implementation showcases the integration of socket programming, multi-threading, and database management to create a functional and responsive Stock Trading System.
 
-Github Repository: [Github Link Placeholder] - This repository documents the development process, including code commits, progress tracking, and collaboration. It serves as a central platform for code management and version control, facilitating a structured and efficient development workflow.
+Github Repository: (https://github.com/leahmirch/PA2LeahMirch) - This repository documents the development process, including code commits, progress tracking, and collaboration. It serves as a central platform for code management and version control, facilitating a structured and efficient development workflow.
