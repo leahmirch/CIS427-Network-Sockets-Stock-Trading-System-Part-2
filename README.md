@@ -4,7 +4,7 @@
 - Leah Mirch (lmirch@umich.edu)
 
 ### Youtube DEMO Link
-Here is the link to the demo: [YouTube Demo Link Placeholder]
+Here is the link to the demo: (https://youtu.be/u3JJ_d_C6Ig)
 
 ### Introduction
 In this second project for CIS 427, I implemented a Stock Trading System within a network socket framework. Utilizing C++ for the main application development and SQLite for database management, I achieved a seamless integration between client and server components over TCP/IP. This Unix-based system allows for simultaneous connections from multiple clients, offering a variety of stock trading operations such as BUY, SELL, LIST, BALANCE, SHUTDOWN, QUIT, LOGIN, LOGOUT, WHO, LOOKUP, and DEPOSIT. By leveraging network programming techniques and employing a multi-threaded server architecture, I ensured efficient handling of concurrent client requests, demonstrating robustness and scalability of our system.
